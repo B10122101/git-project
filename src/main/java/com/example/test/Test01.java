@@ -1,0 +1,12 @@
+package com.example.test;
+
+/**
+ * @author BX
+ * @version 1.0
+ * @date 2023/7/29 15:50
+ */
+public class Test01 {
+	public static void main(String[] args) {
+		System.out.println("hello,git");
+	}
+}
