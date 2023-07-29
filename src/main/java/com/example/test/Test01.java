@@ -13,6 +13,6 @@ public class Test01 {
 		System.out.println("hello,git4");
 		System.out.println("master test");
 		System.out.println("hot-fix");
-		System.out.println("akflfkl");
+		System.out.println("pull test");
 	}
 }
